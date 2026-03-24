@@ -370,7 +370,9 @@ KAGGA_VERSES = [
         "verse":           "ಕದಕಗಳಿಯನು ಬಿಗಿದು ಬೊಮ್ಮ ಗುಡಿಯೊಳಗಿರಲಿ ।\nಅದರ ಕೀಲ್ಕುಂಚಿಕೆಯ ಹೊರಕೆಸೆಯೆ ಸಾಕು ॥\nಪದವಾಕ್ಯವಿದರಾಗ ವಾದಗಡಣೆಯ ಬಿಟ್ಟು ।\nಒದವಿಪರು ದಿಟದರಿವ - ಮಂಕುತಿಮ್ಮ ॥ ೪೧ ॥",
         "transliteration": "kadakagaLiyanu bigidu bomma guDiyoLagirali ।\nadara kIlkunchikeya horakeseye sAku ॥\npadavAkyavidarAga vAdagaDaNeya biTTu ।\nodaviparu diTadariva - Mankutimma ॥ 41 ॥",
         "meaning_kn":      "ಆ ದೇವರನ್ನು ಗುಡಿಯಲಿ ಬಿಟ್ಟು, ಬಾಗಿಲನ್ನು ಹಾಕಿ, ಚಿಲಕ ಹಾಕಿ, ಬೀಗ ಜಡಿದು ಬೀಗದ ಕೈಯನ್ನು ಎಸೆದುಬಿಟ್ಟರೆ, ಆಗ ಪಂಡಿತರು ಮತ್ತು ವಿಧ್ವಾಂಸರು ಆ ದೇವರನ್ನು ಕುರಿತ, ತಮ್ಮ ಪಾಂಡಿತ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸುವ ವ್ಯರ್ಥವಾದವನ್ನು ಬಿಟ್ಟು, ಆ ದೇವರನ್ನು ಕುರಿತಾದ ಸತ್ಯವನ್ನು ಅರಿಯಲು ಸಹಾಯಮಾಡುವರು ಎಂಬುದು ಈ ಕಗ್ಗದ ವಾಚ್ಯಾರ್ಥವು.",
-        "explanation":     "Let god lock himslef inside a temple. No Problem. At least, let him throw the key bunch outside. Those scholars who are good at words and sentences will at least then stop the arguments and debates and start talking (teaching) about the realization of the Truth.\n\n[Translator's note: Ancient scriptures in India say that there is one GOD and he can appear in different ways to different people. The scholars know this. Yet, they often have arguments and debates to prove that their image of GOD is the Truth and not other's. DVG seem to think that the only way they would end their debate is when God himself throws the key to the truth amongst us. Is he talking about he Bhagavadgita?] - Mankutimma",
+        "explanation":     "Let god lock himslef inside a temple. No Problem. At least, let him throw the key bunch outside. Those scholars who are good at words and sentences will at least then stop the arguments and debates and start talking (teaching) about the realization of the Truth.",
+\n
+\n[Translator's note: Ancient scriptures in India say that there is one GOD and he can appear in different ways to different people. The scholars know this. Yet, they often have arguments and debates to prove that their image of GOD is the Truth and not other's. DVG seem to think that the only way they would end their debate is when God himself throws the key to the truth amongst us. Is he talking about he Bhagavadgita?] - Mankutimma",
         "themes":          ["Devotion Wisdom Death Morality Suffering Detachment Society Self"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Devotion Wisdom Death Morality Suffering Detachment Society Self",
     },
@@ -406,7 +408,9 @@ KAGGA_VERSES = [
         "verse":           "ಬೆಂಕಿಯುಂಡೆಯ ಬೆಳಕು ಬೆಣ್ಣೆಯುಂಡೆಯ ಬೆಳಕು ।\nಮಂಕುವಿಡಿಸಲು ಸಾಕು ಮಣ್ಣುಂಡೆ ಕಣ್ಗೆ ॥\nಶಂಕೆಗೆಡೆಯಿರದು ಕತ್ತಲೆಯೆ ಜಗವನು ಕವಿಯೆ ।\nಬೊಂಕುದೀವಿಗೆ ತಂಟೆ - ಮಂಕುತಿಮ್ಮ ॥ ೪೫ ॥",
         "transliteration": "benkiyunDeya beLaku beNNeyunDeya beLaku ।\nmankuviDisalu sAku maNNuNde kaNge ॥\nshankege eDeyiradu kattaleye jagavanu kaviye ।\nbonkudIvige tanTe - Mankutimma ॥ 45 ॥",
         "meaning_kn":      "ಸೂರ್ಯನ ಬೆಳಕಗಾಲೀ ಅಥವಾ ಚಂದ್ರನ ಬೆಳಕಗಾಲೀ ಅಥವಾ ಒಂದು ಪುಟ್ಟ ಹಣತೆಯಾದರೂ ಸಹ ನಮಗೆ ನೋಡಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಆದರೆ ಜಗತ್ತನ್ನು ಸಂಪೂರ್ಣ ಕತ್ತಲೆ ಆವರಿಸಿದರೆ, ನೋಡುವ ಪ್ರಶ್ನೆಯೇ ಬರುವುದಿಲ್ಲ. ಆದರೆ ಒಂದು ಅರ್ದಂಬರ್ದವಾಗಿ ಕತ್ತಲೆ ಬೆಳಕಿನಾಟ ಕೇವಲ ತೊಂದರೆಯನ್ನು ಕೊಡುತ್ತದೆ ಎಂದು ಸೂಚ್ಯವಾಗಿ ಒಂದು ಗಹನವಾದ ವಿಷಯವನ್ನು ಪ್ರಸ್ತಾಪ ಮಾಡುತ್ತಾರೆ, ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "A ball of fire has light. So does a ball of butter. One is hot, one is cold. Eyes can not differentiate between the two. A simple ball of clay moulded into any shape is enough to decieve the eyes. The whole world is in darkness people will run to even a small lamp for light however inadequate it may be. After that, they will have no doubt that what ever they see in that low light is real.\n\n[Translator's note: More stress is laid on how limitted our senses are. Also it shows how we get comfortable with what we understand and believe it to be true.] - Mankutimma",
+        "explanation":     "A ball of fire has light. So does a ball of butter. One is hot, one is cold. Eyes can not differentiate between the two. A simple ball of clay moulded into any shape is enough to decieve the eyes. The whole world is in darkness people will run to even a small lamp for light however inadequate it may be. After that, they will have no doubt that what ever they see in that low light is real.
+\n
+\n[Translator's note: More stress is laid on how limitted our senses are. Also it shows how we get comfortable with what we understand and believe it to be true.] - Mankutimma",
         "themes":          ["Wisdom Life Nature Society"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Wisdom Life Nature Society",
     },
@@ -496,7 +500,9 @@ KAGGA_VERSES = [
         "verse":           "ಕುರುಡನಿನಚಂದ್ರರನು ಕಣ್ಣಿಂದ ಕಾಣುವನೆ? ।\nಅರಿಯುವಂ ಸೋಂಕಿಂದೆ ಬಿಸಿಲುತಣಿವುಗಳ ॥\nನರನುಮಂತೆಯೆ ಮನಸಿನನುಭವದಿ ಕಾಣುವನು ।\nಪರಸತ್ತ್ವಮಹಿಮೆಯನು - ಮಂಕುತಿಮ್ಮ ॥ ೫೫ ॥",
         "transliteration": "kuruDanu ina chandraranu kaNNinda kANuvane? ।\nariyuvam sOnkinde bisilu taNivugaLa ॥\nnaranum anteye manasina anubhavadi kANuvanu ।\nparasattva mahimeyanu - Mankutimma ॥ 55 ॥",
         "meaning_kn":      "ಕುರುಡನಿಗೆ ಸೂರ್ಯ ಚಂದ್ರರನು ಕಾಣಲಾಗುವುದೆ? ಬಿಸಿಲು ಮತ್ತು ತಂಪನ್ನು ಅವನು ಸ್ಪರ್ಶಮಾತ್ರದಿಂದಲೇ ಅರಿಯುವುದಿಲ್ಲವೇ ಮನುಷ್ಯನೂ ಸಹ ಮನಸ್ಸಿನ ಅನುಭವದಿಂದ ಪರಮಾತ್ವ ತತ್ವವನು ಕಾಣುತ್ತಾನೆ ಎನ್ನುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "Will a blind person see the Sun or the Moon? He can know about them only by the heat or cold that he feels. Similarly, one can know about the eternal truth subtle experiences of his mind.\n\n[Translator's note: Again, stress is laid on the inadequacy of the senses in the search for the ultimate truth. It is accessible only through extra sensory experiences in one's mind.] - Mankutimma",
+        "explanation":     "Will a blind person see the Sun or the Moon? He can know about them only by the heat or cold that he feels. Similarly, one can know about the eternal truth subtle experiences of his mind.
+\n
+\n[Translator's note: Again, stress is laid on the inadequacy of the senses in the search for the ultimate truth. It is accessible only through extra sensory experiences in one's mind.] - Mankutimma",
         "themes":          ["Wisdom Life"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Wisdom Life",
     },
@@ -559,7 +565,9 @@ KAGGA_VERSES = [
         "verse":           "ಭೌತವಿಜ್ಞಾನಿ ರವಿತಾರೆಧರೆಗಳ ಚಲನ ।\nರೀತಿ ವೇಗವನೆಳೆದು ಶಕ್ತಿಗಳ ಗುಣಿಪನ್ ॥\nಪ್ರೀತಿ ರೋಷಗಳನವನಳೆವನೇನ್? ಅವ್ಯಕ್ತ ।\nಚೇತನವನರಿವನೇಂ? - ಮಂಕುತಿಮ್ಮ ॥ ೬೨ ॥",
         "transliteration": "bhauta vijnAni ravi tAre dharegaLa chalana ।\nrIti vEgavanu aLedu shaktigaLa guNipan ॥\nprIti rOShagaLanu avanu aLevanEn? avyakta ।\nchEtanavanu arivanEm? - Mankutimma ॥ 62 ॥",
         "meaning_kn":      "ಭೌತವಿಜ್ಞಾನಿಯು ಸೂರ್ಯ ನಕ್ಷತ ಭೂಮಿಗಳ ತಿರುಗುವ ಸುಡುವ ಪ್ರಭಾವ ಬೀರುವ ಶಕ್ತಿಗಳ ಗುಣಾಕಾರ ಭಾಗಾಕಾರ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮಾಡುತ್ತಾನೆ. ಆದರೆ ಮಾನವ ಮನಸ್ಸುಗಳಲ್ಲಿ ಪರಸ್ಪರ ಪ್ರೀತಿ ದ್ವೇಷ ರೋಷಗಳ ಶಕ್ತಿಯನ್ನು ಅಳೆಯುತ್ತಾನೆಯೇ? ಸಕಲ ಸೃಷ್ಟಿಯನ್ನೂ ಒಂದು ಸೂತ್ರದಲ್ಲಿ ಹೆಣೆದು ಅದರ ಗತಿ ವಿಧಿಗಳನ್ನು ನಿಯಂತ್ರಿಸುವ ಆ ಬೃಹತ್ ಚೇತನವನ್ನು ಅವನಿಂದ ಅರಿಯಲು ಸಾಧ್ಯವೇ ಎಂದು ಕೇಳುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "Physicist may very well observe the trajectory and speed of the Sun, stars and earth and know their strengths. Can he measure the feelings like love and anger? Can he know any details of any energy that do not physical manifestations? \n\n[Trasnslator's note: Science can only go so far in explaining the universe. The conscience mind is still a mystery to any branch of science.] - Mankutimma",
+        "explanation":     "Physicist may very well observe the trajectory and speed of the Sun, stars and earth and know their strengths. Can he measure the feelings like love and anger? Can he know any details of any energy that do not physical manifestations? 
+\n
+\n[Trasnslator's note: Science can only go so far in explaining the universe. The conscience mind is still a mystery to any branch of science.] - Mankutimma",
         "themes":          ["Nature Love"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Nature Love",
     },
@@ -595,7 +603,9 @@ KAGGA_VERSES = [
         "verse":           "ವ್ಯರ್ಥವೆಂದೆನಿಪುದಲ ಸೃಷ್ಟಿಯಲಿ ಬಹುಭಾಗ? ।\nಅರ್ಥವೇಂ ಕ್ರಿಮಿಕೀಟಕೋಟಿ ರಚನೆಯಲಿ? ॥\nಕರ್ತನಾಲೋಚಿಸದ ದುಂದಿನವನೆಂಬ ನುಡಿ ।\nಯರ್ಧದೃಷ್ಟಿಯ ವಿವರ - ಮಂಕುತಿಮ್ಮ ॥ ೬೬ ॥",
         "transliteration": "vyarthavendu inipudala sRuShTiyali bahubhAga? ।\narthavEm krimi kITa kOTi rachaneyali? ॥\nkartanu Alochisada dundina avanu emba nuDiyu ।\nardha dRuShTiya vivara - Mankutimma ॥ 66 ॥",
         "meaning_kn":      "“ವ್ಯರ್ಥವೆಂದೆನಿಸುತ್ತದೆ ಸೃಷ್ಟಿಯಲಿ ಬಹುಭಾಗ, ಈ ಕ್ರಿಮಿ ಕೀಟ ಕೋಟಿಗಳ ಸೃಷ್ಟಿಯಲಿ ಅರ್ಥವೇನು ? ಆ ಸೃಷ್ಟಿಕರ್ತನು ಈ ಸೃಷ್ಟಿಯನ್ನು ರಚಿಸುವಾಗ ತನ್ನ ಶಕ್ತಿಯ ದುಂದುಪಯೋಗ ಮಾಡಿರಬಹುದೆಂದು ಯಾರಾದರೂ ಆಲೋಚಿಸಿದರೆ ಅದು ಅವರ ಅಪರಿಪೂರ್ಣ ಜ್ಞಾನದ, ಯೋಚನಾ ದಾರಿದ್ರ್ಯದ ಸೂಚಕವೆಂದು ಈ ಕಗ್ಗದ ಹೂರಣ.",
-        "explanation":     "Why does most things in this creation seem to be a waste? What is the meaning of crores of these minute creatures - worms and insects? If we say the creator a spend thrift who has did not plan this creation well - we would describing the half truth.\n\n[Translator's note: In this creator's universe all creatures are created equal. There is harmony and every creature has its role to play. One cannot claim anything in this creation as waste.] - Mankutimma",
+        "explanation":     "Why does most things in this creation seem to be a waste? What is the meaning of crores of these minute creatures - worms and insects? If we say the creator a spend thrift who has did not plan this creation well - we would describing the half truth.
+\n
+\n[Translator's note: In this creator's universe all creatures are created equal. There is harmony and every creature has its role to play. One cannot claim anything in this creation as waste.] - Mankutimma",
         "themes":          ["Wisdom Death Nature Peace Duty"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Wisdom Death Nature Peace Duty",
     },
@@ -622,7 +632,9 @@ KAGGA_VERSES = [
         "verse":           "ಹೆಸರನರಿಯದ ಸಸಿಯೊಳಿರವೆ ರಸಗಂಧಗಳು? ।\nಬಿಸಿಲದನು ಪಕ್ವಗೊಳಿಸುತೆ ಬಿಡಿಸದಿಹುದೆ? ॥\nಪಸರಿಸದೆ ಗಾಳಿಯದನೊಯ್ದು ದಿಸೆದಿಸೆಗಳೊಳು ।\nಉಸಿರುತಿಹೆವದ ನಾವು  - ಮಂಕುತಿಮ್ಮ ॥ ೬೯ ॥",
         "transliteration": "hesaranu ariyada sasiyoLirave rasagandhagaLu? ।\nbisilu adanu pakvagoLisute biDisadihude? ॥\npasarisade gALiyu adanoydu disedisegaLoLu ।\nusirutihevu ada nAvu - Mankutimma ॥ 69 ॥",
         "meaning_kn":      "ನಮಗೆ ಹೆಸರೇ ಗೊತ್ತಿಲ್ಲದ ಸಸಿಯಲ್ಲಿ ಮಕರಂದ ಮತ್ತು ಸುಗಂಧಗಳಿರುವುದಿಲ್ಲವೇ? ಆ ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ಅವು ಬೆಳೆಯುವುದಿಲ್ಲವೇ? ಆ ಗಿಡಗಳಲ್ಲಿರುವ ಸುಗಂಧವನ್ನು ಗಾಳಿಯು ದಿಕ್ಕು ದಿಕ್ಕುಗಳಿಗೆ ಪಸರಿಸದೆ? \n ಅಂತಹ ಗಾಳಿಯನ್ನು ನಾವು ಉಸಿರಾಡುತ್ತಿಲ್ಲವೇ? ಎಂದು ಒಂದು ಗಹನವಾದ ವಿಚಾರವನ್ನು ಈ ಕಗ್ಗದ ಮೂಲಕ ಪ್ರಸ್ತಾಪಿಸುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "Doesn't a unnamed plant have juice and scent glands? Doesn't sunlight help in ripening it and make it bloom? Doesn't wind carry the scent in all directions? We are breathing the same scent. \n\n[Translator's note: Just because man has no name for it, it is no less important part of the creation. All other actors in this nature do not differentiate among other creatures - especially not based on their percieved utility.] - Mankutimma",
+        "explanation":     "Doesn't a unnamed plant have juice and scent glands? Doesn't sunlight help in ripening it and make it bloom? Doesn't wind carry the scent in all directions? We are breathing the same scent. 
+\n
+\n[Translator's note: Just because man has no name for it, it is no less important part of the creation. All other actors in this nature do not differentiate among other creatures - especially not based on their percieved utility.] - Mankutimma",
         "themes":          ["Nature Society"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Nature Society",
     },
@@ -676,7 +688,9 @@ KAGGA_VERSES = [
         "verse":           "ಮರ ತನ್ನ ಹೆತ್ತ ಬೀಜವನಿಲ್ಲವೆನಿಸಿ ವಿ- ।\nಸ್ತರಿಸುವಂದದಿ, ಸೃಷ್ಟಿ ತನ್ನ ಮೂಲವನು ॥\nಮರೆಮಾಚಿ ತಾನೆ ಮೆರೆಯುತ್ತಿಹುದು ಕಣ್ಗಳಿಗೆ ।\nನೊರೆ ಸೃಷ್ಟಿ ಪಾಲ್ ಬ್ರಹ್ಮ - ಮಂಕುತಿಮ್ಮ ॥ ೭೫ ॥",
         "transliteration": "mara tanna hetta bIjavanu illavenisi ।\nvistarisuvandadi, sRuShTi tanna mUlavanu ॥\nmaremAchi tAne mereyuttihudu kaNgaLige ।\nnore sRuShTi pAl brahma - Mankutimma ॥ 75 ॥",
         "meaning_kn":      "ಒಂದು ಮರ ತನ್ನ ಮೂಲವಾದ ಬೀಜವನ್ನು ಇಲ್ಲವಾಗಿಸಿ ತಾನು ಬೆಳೆದು ರೆಂಬೆ ಕೊಂಬೆಗಳಿಂದ ವಿಸ್ತಾರವಾಗಿ ಬೆಳೆವಂತೆ ಈ ಜಗತ್ತೂ ಸಹ ತನ್ನ ಮೂಲವಾದ ಆ ಅಗ್ನಿಗೋಳವನ್ನು ಇಲ್ಲವಾಗಿಸಿ ಮೆರೆಯುತ್ತಿದೆ ಮತ್ತು ನಮಗೆ ಕಾಣುತ್ತಿದೆ. ಇದು ಹೇಗಿದೆ ಎಂದರೆ ಆ ಪರಬ್ರಹ್ಮ ಹಾಲಾದರೆ ಅತೀ ಉಷ್ಣತೆಯಿಂದ ಕಾದು ಕಾದು ಉಕ್ಕುವ ಹಾಲಿನ ನೊರೆಯಂತೆ ಈ ಸೃಷ್ಟಿ ಎನ್ನುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "A tree grows big and wide out of a seed by destroying it. Just like that, the creation has kept hidden its origin and is exhibiting diversity to our eyes. In a tumbler full of milk, the foam is creation and milk is the creator himself.\n\n[Translator's note: No one knows the origin of this creation. In our lifetimes, we may not even know it ever. We only come close to some approximations and hypothesis about the origin and nature of this universe. One such theory is that it that the creator and the creation are not two different things - its one. The creator manifests in the ever changing form of creation and returns to original (if any one form can be called so) form every now and then. The foam on the milk, is essentially made of milk only... in a different form. The bubbles are varied - some small, some big live for a short time before going back to milk which is permanent.] - Mankutimma",
+        "explanation":     "A tree grows big and wide out of a seed by destroying it. Just like that, the creation has kept hidden its origin and is exhibiting diversity to our eyes. In a tumbler full of milk, the foam is creation and milk is the creator himself.
+\n
+\n[Translator's note: No one knows the origin of this creation. In our lifetimes, we may not even know it ever. We only come close to some approximations and hypothesis about the origin and nature of this universe. One such theory is that it that the creator and the creation are not two different things - its one. The creator manifests in the ever changing form of creation and returns to original (if any one form can be called so) form every now and then. The foam on the milk, is essentially made of milk only... in a different form. The bubbles are varied - some small, some big live for a short time before going back to milk which is permanent.] - Mankutimma",
         "themes":          ["Life Nature Self"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Nature Self",
     },
@@ -757,7 +771,9 @@ KAGGA_VERSES = [
         "verse":           "ಅಣು ಭೂತ ಭೂಗೋಲ ತಾರಾಂಬರಾದಿಗಳ ।\nನಣಿಮಾಡಿ ಬಿಗಿದು ನಸು ಸಡಿಲವನುಮಿರಿಸಿ ॥\nಕುಣಿಸುತಿರುವನು ತನ್ನ ಕೃತಿಕಂತುಕವನದರೊ ।\nಳಣಗಿದ್ದು ಪರಬೊಮ್ಮ - ಮಂಕುತಿಮ್ಮ ॥ ೮೪ ॥",
         "transliteration": "aNu bhUta bhUgOla tAra ambarAdigaLanu ।\naNimADi bigidu nasu saDilavanum irisi ॥\nkuNisutiruvanu tanna kRuti kantukavanu adaroL ।\naNagiddu parabomma - Mankutimma ॥ 84 ॥",
         "meaning_kn":      "ಆ ಪರಬ್ರಹ್ಮ ಈ ಜಗತ್ತನ್ನು ಒಂದು ಸೂತ್ರದಲ್ಲಿ ಬಂಧಿಸಿ ಸ್ವಲ್ಪ ಸಡಿಲ ಬಿಟ್ಟು, ತನ್ನ ಕೃತಿಯಾದ ಈ ಜಗತ್ತನ್ನು ಒಂದು ಚೆಂಡು ಎಂದು ಭಾವಿಸಿ, ತಾನೂ ಅದರೋಗೆ ಸೇರಿ ಒಂದು  ಸೂತ್ರದಾಟವ ಆಡುತ್ತಿದ್ದಾನೆ ಎಂದು ಪ್ರಸ್ತಾಪಿಸುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು, ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "God created this universe with atoms, beings, planets, stars, sky and all other creations. He tied all of them together tightly with some rules. He slackened those rules a bit to let them all dance. Then he hides inside his own creation and enjoys the process (dance).\n\n[Translator's note: My best guess about the poet's interpretations - each of the creations may feel they are independent and have free will, but in reality it is only free as long and as far as His rules are not violated, because he is inside each one of us and giving us the illusion of free-will.] - Mankutimma",
+        "explanation":     "God created this universe with atoms, beings, planets, stars, sky and all other creations. He tied all of them together tightly with some rules. He slackened those rules a bit to let them all dance. Then he hides inside his own creation and enjoys the process (dance).
+\n
+\n[Translator's note: My best guess about the poet's interpretations - each of the creations may feel they are independent and have free will, but in reality it is only free as long and as far as His rules are not violated, because he is inside each one of us and giving us the illusion of free-will.] - Mankutimma",
         "themes":          ["Devotion Death Nature"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Devotion Death Nature",
     },
@@ -802,7 +818,9 @@ KAGGA_VERSES = [
         "verse":           "ಆದಿದಿವಸವದಾವುದೆಂದೆಂದುಮಿಹ ಜಗಕೆ? ।\nಬೋಧನೆಯ ಸುಲಭತೆಗೆ ಸೃಷ್ಟಿಲಯಕಥನ ॥\nಪಾದಶಿರಗಳ ಕೂರ್ಮ ಚಾಚಿಕೊಂಡಿರೆ ಸೃಷ್ಟಿ ।\nಸೇದಿಕೊಂಡಿರೆ ಲಯವೊ - ಮಂಕುತಿಮ್ಮ ॥ ೮೯ ॥",
         "transliteration": "Adi divasavadu Avudendendum iha jagake? ।\nbOdhaneya sulabhatege sRuShTi laya kathana ॥\npAdashiragaLa kUrma chAchikonDire sRuShTi ।\nsEdikonDire layavo - Mankutimma ॥ 89 ॥",
         "meaning_kn":      "ಎಂದೆಂದೂ ಇರುವ ಈ ಜಗತ್ತಿಗೆ ಮೊದಲ ದಿನವು ಯಾವುದು ಮತ್ತು ಕೊನೆಯ ದಿನವು ಯಾವುದು? ಅದು ಹಾಗಾಯಿತು, ಇದು ಹೀಗಾಯಿತು ಎಂದು ಸುಲಭವಾಗಿ ವಿವರಿಸಲು ಒಂದು ರೀತಿಯ ವಿವರಣೆಯನ್ನು ನೀಡುತ್ತಾರೆ. ಆಮೆ ತನ್ನ ಕಾಲುಗಳನ್ನು ಹೊರಗೆ ತೆಗೆದರೆ ಸೃಷ್ಟಿ ಒಳಗೆಳೆದುಕೊಂಡರೆ ಲಯವೆನ್ನುವ ರೀತಿ ಎಂದು ಒಂದು ಗಹನವಾದ ವಿಚಾರವನ್ನು ಪ್ರಸ್ತಾಪಿಸುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "It is a very frequently asked question. When did this world begin? Our scriptures answer it in the form of a story. There is a divine turtle. If it spreads its legs and head out of the shell, it is creation. When it withdraws its limbs into the shell, the creation is destroyed.\n\n[Translator's note: The stress is on the futility of hte question. It is almost expected that if you find \"an\" answer ever, the follow-up would be \"What was there before it?\". The fable is to emphasize that both space and time as we measure it, know it are relative to one cycle of creation and destruction. And such cycles continue with no beginning or end.] - Mankutimma",
+        "explanation":     "It is a very frequently asked question. When did this world begin? Our scriptures answer it in the form of a story. There is a divine turtle. If it spreads its legs and head out of the shell, it is creation. When it withdraws its limbs into the shell, the creation is destroyed.
+\n
+\n[Translator's note: The stress is on the futility of hte question. It is almost expected that if you find \"an\" answer ever, the follow-up would be \"What was there before it?\". The fable is to emphasize that both space and time as we measure it, know it are relative to one cycle of creation and destruction. And such cycles continue with no beginning or end.] - Mankutimma",
         "themes":          ["Devotion Life Death Nature Detachment"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Devotion Life Death Nature Detachment",
     },
@@ -838,7 +856,9 @@ KAGGA_VERSES = [
         "verse":           "ಜ್ವಾಲಮಾಲಾಕುಲ ಜಗದ್ರೂಪ ತಾಂಡವದಿ ।\nಲೀಲೆಯಿಂ ಜೀವತೆಯನಾಂತು ಪರಬೊಮ್ಮಂ ॥\nತಾಳಲಯಮೇಳನದಿನೊಮ್ಮೆ ರಭಸದಿನೊಮ್ಮೆ ।\nಲೊಲನಾಗಿರ್ಪನೆಲೊ - ಮಂಕುತಿಮ್ಮ ॥ ೯೩ ॥",
         "transliteration": "jvAlamAlAkula jagadrUpa tANdavadi ।\nlIleyiM jIvateyanAntu parabommaM ॥\ntALa laya mELanadi omme rabhasadi inomme ।\nlolanAgirpanalo - Mankutimma ॥ 93 ॥",
         "meaning_kn":      "ಜ್ವಾಲೆಗಳ ಮಾಲೆಯಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ಈ ಜಗತ್ತಿನ ತಾಂಡವ ನೃತ್ಯ. ಇದು ಪರಬ್ರಹ್ಮನಿಗೆ ಒಂದು ಲೀಲಾ ವಿನೋದ. ಕೆಲವೊಮ್ಮೆ ತಾಳ ಲಯ ಮತ್ತು ಮೇಳಗಳೊಂದಿಗೆ, ಶಾಂತವಾಗಿ ಮತ್ತು ಕೆಲವೊಮ್ಮೆ ರಭಸದಿಂದ ತನ್ನ ಭೀಕರ ರುದ್ರ ತಾಂಡವವನ್ನು ಮೆರೆಯುತ್ತಾ ಇರುವ ಆ ಪರಬ್ರಹ್ಮ, ಎಂದು ಪ್ರಸ್ತಾಪಿಸುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "This whole world is full of interconnected fire(energy) strands dancing. In this choreography, God brought in life on his own accord - for his own pleasure. This dance is smooh, enchating and methodical at times; violent and forceful at other times. The creator has fully immersed himself in this activity of dancing.\n\n[Translator's note: Wiki pedia says the origin of string theory (http://en.wikipedia.org/wiki/String_theory) is some time in late 1960s. They may have to revise it based on this verse. I am pretty sure DVG did not come up with it, it must have been in the scriptures already. DVG is kind enough to bring to common kannada reader through this verse.] - Mankutimma",
+        "explanation":     "This whole world is full of interconnected fire(energy) strands dancing. In this choreography, God brought in life on his own accord - for his own pleasure. This dance is smooh, enchating and methodical at times; violent and forceful at other times. The creator has fully immersed himself in this activity of dancing.
+\n
+\n[Translator's note: Wiki pedia says the origin of string theory (http://en.wikipedia.org/wiki/String_theory) is some time in late 1960s. They may have to revise it based on this verse. I am pretty sure DVG did not come up with it, it must have been in the scriptures already. DVG is kind enough to bring to common kannada reader through this verse.] - Mankutimma",
         "themes":          ["Devotion Life Nature Self"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Devotion Life Nature Self",
     },
@@ -910,7 +930,9 @@ KAGGA_VERSES = [
         "verse":           "ಹಾಲಿನೊಳು ಬೆಣ್ಣೆ  ಕಡಲೊಳಗೆ ನೀರ್ಗಲ್ಲವೊಲು ।\nತೇಲುವುದಮೇಯಸತ್ತ್ವದಲಿ ಮೇಯ ಜಗ ॥\nಮೂಲದಶೆಯೊಳಗೊಂದು, ಮಾಪನದ ಬಗೆಗೆರಡು ।\nಗಾಳಿಯುಸಿರುಗಳಂತೆ - ಮಂಕುತಿಮ್ಮ ॥ ೧೦೧ ॥",
         "transliteration": "hAlinoLu beNNe kaDaloLage nIrgallavolu ।\ntEluvudu amEya sattvadali mEya jaga ॥\nmUladasheyoLage ondu, mApanada bagege eraDu ।\ngAli usirugaLante - Mankutimma ॥ 101 ॥",
         "meaning_kn":      "ಹಾಲಿನಲ್ಲಿ ಬೆಣ್ಣೆ ತೇಲುವಂತೆ, ಕಡಲಿನಲ್ಲಿ ಮಂಜಿನಗಡ್ಡೆ ತೇಲುವಂತೆ, ಅಗಾಧ ಅಜ್ಞಾನದ ಕಡಲಲ್ಲಿ ಜ್ಞಾನ ತೇಲುತ್ತಿದೆ. ಹೀಗೆ ಮೂಲ ರೂಪದಲ್ಲಿ ಒಂದರಂತೆ ಕಂಡರೂ ಅರ್ತೈಸಿದರೆ, ಸತ್ಯರೂಪದ ಅರಿವಾಗುತ್ತದೆ. ಹೇಗೆ ಹೊರಗಿರುವುದು ಗಾಳಿಯಾದರೆ ನಮ್ಮಜೀವನಕ್ಕೆ ಹೇತುವಾದದ್ದನ್ನು “ಉಸಿರು” ಎಂದು ಕರೆಯುತ್ತೇವೆ ಎಂದು ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ ವ್ಯಾಖ್ಯಾನಮಾಡಿದ್ದಾರೆ .",
-        "explanation":     "Butter in milk is like icebergs in a sea. Small measurable entities floating on the vast immeasurable. In essence both are same - fat in case of milk/butter and water in case of ocean/iceberg. But if one needs to measure/percieve they are different. Just like, air and breath. Air is every where; but when we inhale a small measurable quantity of it, we call it breath. - Mankutimma\n\n[Translator's note: The whole universe is vast, continuous and immeasurable. But we need to make sense of it only through our senses which have limited abilities. So, we cut the vastness into pieces we can perceive and name them differently. Ocean, clouds, rain, tap-water, river, pond, ground water in a well are all water - but we have difficulty in imagining that they are all the same - hence we call them differently.]",
+        "explanation":     "Butter in milk is like icebergs in a sea. Small measurable entities floating on the vast immeasurable. In essence both are same - fat in case of milk/butter and water in case of ocean/iceberg. But if one needs to measure/percieve they are different. Just like, air and breath. Air is every where; but when we inhale a small measurable quantity of it, we call it breath. - Mankutimma
+\n
+\n[Translator's note: The whole universe is vast, continuous and immeasurable. But we need to make sense of it only through our senses which have limited abilities. So, we cut the vastness into pieces we can perceive and name them differently. Ocean, clouds, rain, tap-water, river, pond, ground water in a well are all water - but we have difficulty in imagining that they are all the same - hence we call them differently.]",
         "themes":          ["Nature"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Nature",
     },
@@ -937,7 +959,9 @@ KAGGA_VERSES = [
         "verse":           "ಕಾಲವಕ್ಷಯದೀಪವದರ ಪಾತ್ರೆಯಪಾರ ।\nಬಾಳ್ ಅದರಿನಾದೊಂದು ಕಿರುಹಣತೆ ಮಿಣಕು ॥\nಗಾಳಿಯಾರಿಪುದೊಂದನಿನ್ನೊಂದ ಹೊತ್ತಿಪುದು ।\nತೈಲಧಾರೆಯಖಂಡ - ಮಂಕುತಿಮ್ಮ ॥ ೧೦೪ ॥",
         "transliteration": "kAlavu akshayadIpavu adara pAtreyu apAra ।\nbAL adarinAdondu kiruhaNate miNuku ॥\ngALiyu Aripudu ondanu innonda hottipudu ।\ntailadhAre akhanDa - Mankutimma ॥ 104 ॥",
         "meaning_kn":      "ಕಾಲವೆಂಬುದು ಅವ್ಯಾಹತವಾಗಿ, ನಿರಂತರ ಉರಿಯುವ ದೀಪ. ಅದರ ಪಾತ್ರ ಬಹಳ ದೊಡ್ಡದು. ಒಂದು ಕ್ಷಣ ಮುಗಿದರೆ ಮತ್ತೊಂದು ಕ್ಷಣ ನಮ್ಮ ಬಾಳು ಕಾಲದ ಈ ಅವ್ಯಾಹತ ಪ್ರವಾಹದಲ್ಲಿ ಉರಿಯುವ ಒಂದು ಸಣ್ಣ ಹಣತೆಯಂತೆ. ಗಾಳಿಯು ಒಂದು ಹಣತೆಯನ್ನು ಆರಿಸಿದರೆ ಇನ್ನೊಂದು ದೀಪ ಹೊತ್ತಿಕೊಳ್ಳುವುದು. ಜೀವನದ ತೈಲಧಾರೆಗೆ ಅಂತ್ಯವೇ ಇಲ್ಲವೆಂಬುದೆ ಈ ಕಗ್ಗದ ಹೂರಣ.",
-        "explanation":     "Time is like an never ending torch. Its power is vast. Life is just a flash of light from a small lamp. Wind puts off some flames while helps some to get bigger. The supply of oil to these lamps is uninterrupted and infinite.\n\n[Translator's note: People come and people go. Time was there before us, and will be there even after we are gone. While we stay here, there are a lot of factors that makes us prosper, suffer or perish. Nevertheless, our life ends one day or another. But 'Life' in general continues since others continue to live and flourish. Hence the author says that supply of oil for the flame of life is inifinite and uninterrupted.]",
+        "explanation":     "Time is like an never ending torch. Its power is vast. Life is just a flash of light from a small lamp. Wind puts off some flames while helps some to get bigger. The supply of oil to these lamps is uninterrupted and infinite.
+\n
+\n[Translator's note: People come and people go. Time was there before us, and will be there even after we are gone. While we stay here, there are a lot of factors that makes us prosper, suffer or perish. Nevertheless, our life ends one day or another. But 'Life' in general continues since others continue to live and flourish. Hence the author says that supply of oil for the flame of life is inifinite and uninterrupted.]",
         "themes":          ["Life Death Morality Nature Society"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Death Morality Nature Society",
     },
@@ -955,7 +979,9 @@ KAGGA_VERSES = [
         "verse":           "ಚೌಕಟ್ಟನಂತವದರೊಳು ಚಿತ್ರಪಟ ಸಾಂತ ।\nಸಾಕಾರ ಘನತತಿ ನಿರಾಕಾರ ನಭದಿ ॥\nಲೌಕಿಕದ ಮೌಲ್ಯ ನಿರ್ಲೌಕಿಕದ ನಾಣ್ಯದಲಿ ।\nಲೆಕ್ಕ ತಾತ್ತ್ವಿಕನಿಗಿದು - ಮಂಕುತಿಮ್ಮ ॥ ೧೦೬ ॥",
         "transliteration": "chaukattu anantavu adaroLu chitrapaTa sAnta ।\nsAkAra Ghanatati nirAkAra nabhadi ॥\nlaukikada maulya nirlaukikada nANyadali ।\nlekka tAttvikanige idu - Mankutimma ॥ 106 ॥",
         "meaning_kn":      "ಹಿಂದಿನ ಕಗ್ಗದ ವಿವರಣೆಯನ್ನೇ ಮುಂದುವರೆಸಿ ನೋಡಿದರೆ, ಈ ಪರಮ ಚೇತನದ ಚೌಕಟ್ಟು, ಅನಂತ,ಅಂದರೆ ಅಂತವೇ ಇಲ್ಲದ್ದು . ಹಾಗೆ ಅನಂತವಾಗಿರುವ ಚೌಕಟ್ಟಿನಲ್ಲಿ ಅಂತ್ಯಗೊಳ್ಳುವ ಚಿತ್ರ. ಹೇಗೆ ಅನಂತ ಆಕಾಶದಲ್ಲಿ ಹಲವು ಆಕಾರಗಳ, ಆದರೆ ತನ್ನ ಆಕಾರವನ್ನು ಘಳಿಗೆ ಘಳಿಗೆಗೆ ಬದಲಾಯಿಸಿಕೊಳ್ಳುವ ಮೋಡಗಳಂತೆ, ನಮ್ಮ ಲೌಕಿಕ ಜೀವನವೂ ಈ ಅನಂತ ವಿಶ್ವದ ಭಿತ್ತಿಯಲ್ಲಿ ಸಾಂತ, ಅಂದರೆ ಬದಲಾಗುವ ಜೀವನದ ಚಿತ್ರ. ಆದರೆ ಈ ಲೌಕಿಕದ ಜೀವನದ ಮೌಲ್ಯಗಳನ್ನು, ಪಾರಮಾರ್ಥದ ಒರೆಗೆಹಚ್ಚಿ ನೋಡುವವನೆ ತತ್ವಜ್ಞಾನಿ, ಎಂದು ಆ ಕಗ್ಗದಲ್ಲಿ ಪ್ರಸ್ತಾಪಿಸುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "The borders of the painting (and hence the canvas) is infinite. The painting itself is finite, definite and shortlived. In the infinite formless sky, we see objects that are finite (like clouds, moon, starts, sun etc...) and have forms. For a person enlightened about the truth, all worldly objects are to be measured and valued against the value of the universal truth. Any other valuation is false. - Mankutimma.\n\n[Translator's note: It took some time for me to arrive at my understanding of the verse. Here it is - Most of what we see is limitted - by space, by time, by intellectual depth. To understand the objects or phenomena we observe we use our own scale which are inherently finite and hence incomplete. But, it is good enough for the time being. For example, to explain the distance between two wickets on a pitch - we use yards (or meters); between two cities - kilometers; between two stars - light years; between two electrons - angstroms. All the units are measuring space, that too in one dimension only - yet so different and so imperfect when applied where they are not intended for. Another example is about object valuation. Most of us (even countries as entities) think Gold is very precious and hence valuable. But that is true only in a context. Ask a starving man whether he wants assured supply of three square meals a day or a truck load of gold with no food for years, you will know how distorted was our valuation. When one realizes the essence of being one with the universe - he starts seeing things for what they are and valuing everything / every phenomenon against the only scale he knows; against the universal truth.]",
+        "explanation":     "The borders of the painting (and hence the canvas) is infinite. The painting itself is finite, definite and shortlived. In the infinite formless sky, we see objects that are finite (like clouds, moon, starts, sun etc...) and have forms. For a person enlightened about the truth, all worldly objects are to be measured and valued against the value of the universal truth. Any other valuation is false. - Mankutimma.
+\n
+\n[Translator's note: It took some time for me to arrive at my understanding of the verse. Here it is - Most of what we see is limitted - by space, by time, by intellectual depth. To understand the objects or phenomena we observe we use our own scale which are inherently finite and hence incomplete. But, it is good enough for the time being. For example, to explain the distance between two wickets on a pitch - we use yards (or meters); between two cities - kilometers; between two stars - light years; between two electrons - angstroms. All the units are measuring space, that too in one dimension only - yet so different and so imperfect when applied where they are not intended for. Another example is about object valuation. Most of us (even countries as entities) think Gold is very precious and hence valuable. But that is true only in a context. Ask a starving man whether he wants assured supply of three square meals a day or a truck load of gold with no food for years, you will know how distorted was our valuation. When one realizes the essence of being one with the universe - he starts seeing things for what they are and valuing everything / every phenomenon against the only scale he knows; against the universal truth.]",
         "themes":          ["Wisdom Life Death Morality Suffering Nature Self"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Wisdom Life Death Morality Suffering Nature Self",
     },
@@ -973,7 +999,9 @@ KAGGA_VERSES = [
         "verse":           "ಜಡವೇನು? ಜೀವವೇಂ? ಚೈತನ್ಯ ನಿದ್ರಿಸಿರು ।\nವೆಡೆಯೆಲ್ಲ ಜಡಲೋಕ ಕಲ್ಲು ಕಡ್ಡಿ ಕಸ ॥\nಅಡಗಿರ್ಪ ಚೈತನ್ಯವೆಚ್ಚರಲು ಜಂತು ಜಗ ।\nಜಡವೆ ಜೀವದ ವಸತಿ - ಮಂಕುತಿಮ್ಮ ॥ ೧೦೮ ॥",
         "transliteration": "jaDavEnu? jIvavEm? chaitanya nidrisiru ।\nveDeyella jaDalOka kallu kaDDi kasa ॥\naDagirpa chaitanyavu echharalu jantu jaga ।\njaDave jIvada vasati - Mankutimma ॥ 108 ॥",
         "meaning_kn":      "ಜಡವೇನು? ಜೀವವೇನು? ಚೈತನ್ಯ ಎಲ್ಲೆಲ್ಲಿ ನಿದ್ರಿಸಿದೆಯೋ ಅದೆಲ್ಲ ಜಡ. ಕಲ್ಲು ಕಡ್ಡಿ ಕಸ ಹೀಗೆ. ಹಾಗೆ ಅಡಗಿರುವ ಅಥವಾ ಸುಪ್ತವಾಗಿರುವ ಚೈತನ್ಯ ಎಚ್ಚರವಾದರೆ ಆ ವಸ್ತು ಜೀವಂತವಾಗುತ್ತದೆ. ಹಾಗಾಗಿ ಜಡವೆ ಜೀವಕ್ಕೆ ಮನೆ ಎಂದು ಪ್ರಸ್ತಾಪಿಸುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "What is a lifeless object? What is life? Where ever the energy is dormant - we call it life less; stone, stick and dirt. When the hidden enrgy is woken up, the world comes to life. In a way, life resides in lifeless objects. - Mankutimma\n\n[Translator's note: Just imagine a handful of paddy seeds. You keeep them for years, you will see no change - absolutely life less. Just sow it in sand; pour some water - you will see sprouts with in two days. Life was always hidden, sleeping in side the lifeless seeds. Sand, water and warmth of the earth only woke it up.]",
+        "explanation":     "What is a lifeless object? What is life? Where ever the energy is dormant - we call it life less; stone, stick and dirt. When the hidden enrgy is woken up, the world comes to life. In a way, life resides in lifeless objects. - Mankutimma
+\n
+\n[Translator's note: Just imagine a handful of paddy seeds. You keeep them for years, you will see no change - absolutely life less. Just sow it in sand; pour some water - you will see sprouts with in two days. Life was always hidden, sleeping in side the lifeless seeds. Sand, water and warmth of the earth only woke it up.]",
         "themes":          ["Life Nature War"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Nature War",
     },
@@ -1000,7 +1028,9 @@ KAGGA_VERSES = [
         "verse":           "ಜಡವೆಂಬುದೇನು? ಸೃಷ್ಟಿಯಲಿ ಚೇತನ ಸುಪ್ತಿ ।\nಅಡಗಿ ನಿದ್ರಿಪುದಲ್ಲಿ ಚೈತನ್ಯದಗ್ನಿ ॥\nಮಿಡಿಯೆ ಪರಸತ್ತ್ವ ವಿದ್ಯುದ್ದೀಪ್ತಿಯದನಾಗ ।\nನೆಡೆವುದದು ಜೀವಿವೊಲು - ಮಂಕುತಿಮ್ಮ ॥ ೧೧೧ ॥",
         "transliteration": "jaDavembudEnu? sRuShTiyali chEtana supti ।\naDagi nidripudalli chaitanyada agni ॥\nmiDiye parasattva vidyut dIptiyadanu Aga ।\nneDevudadu jIvivolu - Mankutimma ॥ 111 ॥",
         "meaning_kn":      "ಒಂದೇ ಮೂಲದಿಂದ ಹೊರಟ ಎರಡು ವಸ್ತುಗಳು. ಒಂದು ಜಡ ಇನ್ನೊಂದು ಚೇತನ. ಅದರ ಅಸ್ಥಿತ್ವಕ್ಕೆ ಕಾರಣವೇ ಬೃಹಚ್ಚೇತನ. ಸೃಷ್ಟಿಯ ಆದಿಯಲ್ಲಿ ಆ ಚೇತನದ ವ್ಯಾಪಕತೆಯ ಸ್ವರೂಪವೇ ಬೇರೆ. ಕೋಟ್ಯಾಂತರ ವರ್ಷಗಳಿಂದ ಬದಲಾಗುತ್ತಾ ಬರುತ್ತಿದೆ. ಮೊದಲು ಪಂಚಭೂತಗಳಲ್ಲಿ ಮಾತ್ರ ಇದ್ದದ್ದು ಕಾಲಾನುಕಾಲಕ್ಕೆ ಗಿಡಮರಗಳಲ್ಲಿ ತದನಂತರ ಕ್ರಿಮಿ ಕೀಟಗಳಲ್ಲಿ, ನಂತರ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಹೀಗೆ ಎಲ್ಲದರ ಅಸ್ಥಿತ್ವಕ್ಕೆ ಕಾರಣವಾದ ಚೇತನವು ತನ್ನ ಶರೀರವನ್ನು ರೂಪಾಂತರಗೊಳಿಸುತ್ತಾ ಹೋಯಿತು. ” ಅಕಾಶಾದ್ವಾಯು: ವಾಯೋರಗ್ನಿ: ಅಗ್ನೇರಾಪಃ ಅದ್ಭ್ಯಃ ಪೃಥಿವೀ ಪೃತಿವ್ಯಾ ಓಷದಯಃ ಒಷದೀಭ್ಯೋನ್ನಂ ಅನ್ನಾತ್ ಪುರುಷಃ ” ಹೀಗೆ ಚೇತನವು ತನ್ನ ಇರುವಿಕೆಯನ್ನು ಎಲ್ಲೆಡೆ ತೋರಿಸುತ್ತಾ ಜೀವಗಳಲ್ಲಿ ಚೇತನ ಸ್ವರೂಪದಿಂದ ” ಪುರುಷ” ನೆಂದು ಕರೆಯಲ್ಪಡುತ್ತಾ ಪೌರುಷದಿಂದ ಮೆರೆದಿದೆ.ಈ ಹಿಂದಿನ ಕಗ್ಗದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿದಂತೆ “ಜಡ” ವೆಂದರೆ ಚಲನೆ ಇಲ್ಲದ ವಸ್ತು. ಅದರಲ್ಲಿಯೂ ಚೈತನ್ಯವಿದೆ. ಆದರೆ ಆ ಚೈತನ್ಯಾಗ್ನಿ ನಿದ್ರಿಸುತ್ತಿದೆ ಎಂದರೆ ಸುಪ್ತವಾಗಿದೆ. ನಿದ್ರಿಸುತ್ತಿರುವ ಆ ಅಗ್ನಿಯ ಕಿಡಿ ಸಿಡಿದು ಮಿಡುಕಿದರೆ ಅದು ಜೀವಿಯಾಗುತ್ತದೆ ಎನ್ನುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "What is an inanimate object? It is just another part of creation where life is asleep. The fire of life is asleep inside them. When the supreme cosmic being blows electrifying energy into it, it starts walking (moving) like a living being. - Mankutimma.\n\n[Translator's note: Is he trying to explain the the origin of life - http://en.wikipedia.org/wiki/Abiogenesis ]",
+        "explanation":     "What is an inanimate object? It is just another part of creation where life is asleep. The fire of life is asleep inside them. When the supreme cosmic being blows electrifying energy into it, it starts walking (moving) like a living being. - Mankutimma.
+\n
+\n[Translator's note: Is he trying to explain the the origin of life - http://en.wikipedia.org/wiki/Abiogenesis ]",
         "themes":          ["Life Nature"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Nature",
     },
@@ -1243,7 +1273,9 @@ KAGGA_VERSES = [
         "verse":           "ಬಾನಾಚೆಯಿಂ ವಿಶ್ವಸತ್ತ್ವ ತಾನಿಳಿದಿಳಿಗೆ ।\nನಾನೆನುವ ಚೇತನದಿ ರೂಪಗೊಂಡಿಹುದೊ? ॥\nನಾನೆನುವ ಕೇಂದ್ರದಿನೆ ಹೊರಟ ಸತ್ತ್ವದ ಪರಿಧಿ ।\nಬಾನಾಚೆ ಹಬ್ಬಿಹುದೊ? - ಮಂಕುತಿಮ್ಮ ॥ ೧೩೮ ॥",
         "transliteration": "bAnAcheyim vishva sattva tAnu iLidu iLege ।\nnAnenuva chetanadi rUpugonDihudo? ॥\nnAnenva kEndradine horaTa sattvada paridhi ।\nbAnAche habbihudo? - Mankutimma ॥ 138 ॥",
         "meaning_kn":      "ಆಕಾಶದಾಚೆ ಅಂದರೆ ನಮಗಿಂತ ಬಹಳದೂರದಿ ಇರುವ ವಿಶ್ವ ಸತ್ವವು ತಾನು ಈ ಭೂಮಿಗೆ ಇಳಿದು ” ನಾನು” ಎನ್ನುವ ಚೇತನದ ರೂಪ ತಳೆದಿದೆಯೋ ಅಥವಾ ” ನಾನು” ಎನ್ನುವ ಒಂದು ಬಿಂದುವಿನಿಂದ ಹೊರಟ ಸತ್ವವು ಆಕಾಶದಾಚೆ ಹಬ್ಬಿಹುದೋ ಎಂದು ಒಂದು ಜಿಜ್ಞಾಸಾ ಭರಿತ ಉದ್ಗಾರವನ್ನು ಎತ್ತುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "\"Has the cosmic spirit from beyond the sky descended into this earth and taken form of one's conscience? Or the essence radiating from one's center has reached beyond the skies?\" - Mankutimma\n\nTranslator's note: This is the classical dillemma. Are we all part of one huge world? or Does each one of us have our own worlds in our minds; each such world limitted only by the creativity of the mind?",
+        "explanation":     "\"Has the cosmic spirit from beyond the sky descended into this earth and taken form of one's conscience? Or the essence radiating from one's center has reached beyond the skies?\" - Mankutimma
+\n
+\nTranslator's note: This is the classical dillemma. Are we all part of one huge world? or Does each one of us have our own worlds in our minds; each such world limitted only by the creativity of the mind?",
         "themes":          ["Life Death Nature"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Death Nature",
     },
@@ -1351,7 +1383,9 @@ KAGGA_VERSES = [
         "verse":           "ದೊರೆ ಮೂವರಿರುವಲ್ಲಿ ಸರಿಯಿಹುದೆ ಸೋಜಿಗವು ।\nಕೊರತೆ ಹೆಚ್ಚಿಕೆಗಳಿರಲಚ್ಚರಿಯದೇನು? ॥\nಬರಲಿ ಬರುವುದು; ಸರಿವುದೆಲ್ಲ ಸರಿಯಲಿ; ನಿನಗೆ ।\nಪರಿವೆಯೇನಿಲ್ಲೆಲವೊ - ಮಂಕುತಿಮ್ಮ ॥ ೧೫೦ ॥",
         "transliteration": "dore mUvariruvalli sariyihude sOjigavu ।\nkorate hecchikegaLu iralacchariyadEnu? ॥\nbarali baruvudu; sarividella sariyali; ninage ।\npariveyu enilla elavo - Mankutimma ॥ 150 ॥",
         "meaning_kn":      "ನಮ್ಮನ್ನಾಳುವ ದೊರಗಳು ಮೂವರು ಇರುವಲ್ಲಿ ಎಲ್ಲವೂ ಸರಿಯಿದ್ದರೆ ಅದು ಆಶ್ಚರ್ಯವೇ ಸರಿ. ಹೆಚ್ಚು ಕಡಿಮೆಗಳು, ಕೊರತೆ, ಹೆಚ್ಚಳಿಕೆಗಳು ಇದ್ದರೆ ಅಚ್ಚರಿಯಿಲ್ಲ. ಬರುವುದು ಬರಲಿ ನಡೆಯುವುದೆಲ್ಲ ನಡೆಯಲಿ ಅದನ್ನು ಕುರಿತು ನೀವು ಹೆಚ್ಚಾಗಿ ಚಿಂತಿಸುವೆ ಏಕೋ ಎಂದು ಒಂದು ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳುತ್ತಾರೆ.",
-        "explanation":     "\"With three masters for our life, it is interesting that at least some things fine in this world. Is there any surprise if there are some shortcomings or unexpected windfalls? Let what has to come come. Let all that has to move move. Why should you worry?\" - Mankutimma\n\n[Translator's note: http://subhashitani.wordpress.com/2011/04/29/]",
+        "explanation":     "\"With three masters for our life, it is interesting that at least some things fine in this world. Is there any surprise if there are some shortcomings or unexpected windfalls? Let what has to come come. Let all that has to move move. Why should you worry?\" - Mankutimma
+\n
+\n[Translator's note: http://subhashitani.wordpress.com/2011/04/29/]",
         "themes":          ["Life Suffering Nature Peace"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Suffering Nature Peace",
     },
@@ -1873,7 +1907,9 @@ KAGGA_VERSES = [
         "verse":           "ಬೆದಕಾಟ ಬದುಕೆಲ್ಲ; ಚಣಚಣವು ಹೊಸ ಹಸಿವು ।\nಅದಕಾಗಿ ಇದಕಾಗಿ ಮತ್ತೊಂದಕಾಗಿ ॥\nಅಧಿಕಾರ ಸಿರಿ ಸೊಗಸು ಕೀರ್ತಿಗಳ ನೆನೆದು ಮನ ।\nಕುದಿಯುತಿಹುದಾವಗಂ - ಮಂಕುತಿಮ್ಮ ॥ ೨೦೮ ॥",
         "transliteration": "bedakATa badukella; chaNa chaNavu hosa hasivu ।\nadakAgi idakAgi mattondakAgi ॥\nadhikAra siri sogasu kIrtigaLa nenedu mana ।\nkuduyutihudu Avagam - Mankutimma ॥ 208 ॥",
         "meaning_kn":      "ಪ್ರತೀ ಕ್ಷಣವೂ ನಾವುಗಳೆಲ್ಲ ಹೊಸ ಹೊಸ ಯೋಜನೆಗಳು, ಯೋಚನೆಗಳು, ಆಸೆಗಳು, ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಹೊತ್ತು, ಇದನ್ನೋ, ಅದನ್ನೋ ಅಥವಾ ಮತ್ಯಾವುದನ್ನೋ ಪಡೆಯುವುದಕ್ಕೆ ಪರದಾಡುತ್ತಿರುತ್ತೇವೆ. ಈ ಪರದಾಟ, ಅಧಿಕಾರ ಸಂಪತ್ತು, ಅಂದ ಚೆಂದ ಅಥವಾ ಕೀರ್ತಿಗಳಂತಹ ವಿಚಾರಗಳನ್ನು ನೆನೆದು ನಮ್ಮ ಮನಸ್ಸುಗಳು ಕುದಿಯುತ್ತಿರುತ್ತವೆ ಎಂಬ ವಿಷಯವನ್ನು ಮಂಡಿಸಿದ್ದಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "\"Life is a struggle all alonng. Every second we have new hunger. For this, for that and for something else. Sometimes it is for power, or wealth, or splendor, or fame. Mind is always restless thinking about them.\" - Mankutimma\n\nಆಸೆ,Desire",
+        "explanation":     "\"Life is a struggle all alonng. Every second we have new hunger. For this, for that and for something else. Sometimes it is for power, or wealth, or splendor, or fame. Mind is always restless thinking about them.\" - Mankutimma
+\n
+\nಆಸೆ,Desire",
         "themes":          ["Life Death Suffering War Peace"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Death Suffering War Peace",
     },
@@ -1891,7 +1927,8 @@ KAGGA_VERSES = [
         "verse":           "ತಂಗಳುಣಿಸಾದೊಡಂ ಸಾಕೆನುವನುಪವಾಸಿ ।\nಸಿಂಗಾರ ಸಂಗಾತಿ ಬೇಕುಂಡವನಿಗೆ ॥\nಬಂಗಾರ ಪದವಿ ಪ್ರತಿಷ್ಠೆ ಬೇಕಾಬಳಿಕ ।\nಹಿಂಗದಾಯೆದೆಚಿಲುಮೆ - ಮಂಕುತಿಮ್ಮ ॥ ೨೧೦ ॥",
         "transliteration": "tangaLu uNisAdoDam sAku enuvanu upavAsi ।\nsingAra sangAti bEku unDavanige ॥\nbangAra padavi pratiShThe bEku AbaLika ।\nhingadu A ede chilume - Mankutimma ॥ 210 ॥",
         "meaning_kn":      "ಬಹಳ ಹಸಿವಿನಿಂದಿರುವವನಿಗೆ ತಂಗಳನ್ನವಾದರೂ ತೃಪ್ತಿ ನೀಡುತ್ತದೆ. ಒಂದು ಬಾರಿ ಆ ಹಸಿವು ನೀಗಿದರೆ ಅವನಿಗೆ ಶೃಂಗಾರ, ಬಟ್ಟೆ ಬರೆ, ಸಂಗಾತಿ ಬೇಕೆನಿಸುತ್ತದೆ. ಅವುಗಳು ಸಿಕ್ಕರೆ ಮುಂದಕ್ಕೆಆಸ್ತಿಅಂತಸ್ತು ಪದವಿ ಬೇಕೆನಿಸುತ್ತದೆ, ಹೀಗೆ ಬಯಕೆಗಳ ಒರತೆ ಮನುಜನ ಮನದಲ್ಲಿ ಎಂದಿಗೂ ಹಿಂಗದು ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದ್ದಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "\"A hungry person is satisfied (temporarily) even if he is given stale food. But a person who has eaten wants to look good and have a companion. Later more needs come up like gold for ornaments, position of power, fame. The fountain of wants in his heart does not go dry even if he gets all of them.\" - Mankutimma\n[Translator's note: Maslov's hierarchy of needs : http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs ]",
+        "explanation":     "\"A hungry person is satisfied (temporarily) even if he is given stale food. But a person who has eaten wants to look good and have a companion. Later more needs come up like gold for ornaments, position of power, fame. The fountain of wants in his heart does not go dry even if he gets all of them.\" - Mankutimma
+\n[Translator's note: Maslov's hierarchy of needs : http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs ]",
         "themes":          ["Morality Love"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Morality Love",
     },
@@ -1990,7 +2027,9 @@ KAGGA_VERSES = [
         "verse":           "ಅರೆಗಳಿಗೆಯನುಭವವೆ ಮಾನಸವ ಕರಗಿಸದೆ? ।\nಪರಿಪಕ್ವಗೊಳಿಸದೇನದು ಜೀವರಸವ? ॥\nಉರಿ ತಣಿಪುಗಳಿನಾತ್ಮಸಂಸ್ಕಾರಗಳನೆಸಪ ।\nಪುರಳ ಪುಸಿಯೆನ್ನುವೆಯ? - ಮಂಕುತಿಮ್ಮ ॥ ೨೨೧ ॥",
         "transliteration": "are gaLigeya anubhavave mAnasava karagisade? ।\nparipakvagoLisadenu adu jIvarasava ॥\nuri taNipugaLu ina Atma samskAragaLanu esapa ।\npuraLa pusiyennuveya? - Mankutimma ॥ 221 ॥",
         "meaning_kn":      "ಜೀವನದಲ್ಲಿ ಒಂದು ಅರೆಗಳಿಗೆಯಲ್ಲಿ ಆಗುವ ಅನುಭವವು ನಮ್ಮ ಮನಸ್ಸನ್ನು ಕರಿಗಿಸದೆ? ನಮ್ಮಲ್ಲಿ ಹರಿಯುವ ಜೀವರಸವನ್ನು ಪರಿಪಕ್ವಗೊಳಿಸದೇನುಅದು? ಉರಿ ಮತ್ತು ಶೀತಲತೆಗಳು ಆತ್ಮವನ್ನು ಸಂಸ್ಕರಿಸುವ ಆ ತಿರುಳನ್ನು, ಸತ್ವವನ್ನು ಹುಸಿಯನ್ನುತೀಯಾ ನೀನು? ಎಂದು ಒಂದು ಪ್ರಶ್ನೆಯನ್ನು ನಮ್ಮ ಮುಂದಿಟ್ಟಿದ್ದಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "\"An experience lasting just half a second is enough to soften us. Don't such experiences bring clarity and refines our convictions in life? These experiences could be pleasant or troublesome. But they touch your soul and their effect is real. Can we deny that?\" - Mankutimma\n\n[Translator's note: This is a question to the people who say that life has to be led entirely objectively based only on facts and feelings are unreal.]",
+        "explanation":     "\"An experience lasting just half a second is enough to soften us. Don't such experiences bring clarity and refines our convictions in life? These experiences could be pleasant or troublesome. But they touch your soul and their effect is real. Can we deny that?\" - Mankutimma
+\n
+\n[Translator's note: This is a question to the people who say that life has to be led entirely objectively based only on facts and feelings are unreal.]",
         "themes":          ["Life Death Suffering Society Love"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Life Death Suffering Society Love",
     },
@@ -2215,7 +2254,9 @@ KAGGA_VERSES = [
         "verse":           "ಪ್ರೇಮಬೀಜಗಳಿಹುವು ವೈರಬೀಜಗಳವೊಲೆ ।\nಸೌಮ್ಯಮುಂ ಸಂಕ್ಷೋಭೆಯಂತೆ ಪ್ರಕೃತಿಯಲಿ ॥\nಭ್ರಾಮಕದ ಸೃಷ್ಟಿಯಾ ವಿಷಮಲಕ್ಷಣಗಳಲಿ ।\nಸಾಮರಸ್ಯವನರಸೊ - ಮಂಕುತಿಮ್ಮ ॥ ೨೪೬ ॥",
         "transliteration": "prEmabIjagaLu ihuvu vaira bIjagaLavole ।\nsaumyamum sankShObheyante prakRutiyali ॥\nbhrAmakada sRuShTiyA viShama lakShaNagaLali ।\nsAmarasyavanu araso - Mankutimma ॥ 246 ॥",
         "meaning_kn":      "ಈ ಪ್ರಕೃತಿಯಲಿ, ಸೌಮ್ಯ ಮತ್ತು ಸಂಕ್ಷೋಭೆಯ ಭಾವಗಳಿರುವಂತೆ, ಪ್ರೇಮಕ್ಕೆ ಮತ್ತು ದ್ವೇಷಕ್ಕೂ ಕಾರಣಗಳಿವೆ. ಭ್ರಮೆಯನ್ನುಂಟುಮಾಡುವಂಥಾ ಸೃಷ್ಟಿಯ ಬೇರೆ ಬೇರೆ ಲಕ್ಷಣಗಳಲ್ಲಿ, ನೀನು ಸಮರಸವನ್ನು ಹುಡುಕು ಎಂದು ಒಂದು ಆದೇಶವನ್ನು ಮಾಡಿದ್ದಾರೆ, ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು ಈ ಕಗ್ಗದಲ್ಲಿ.",
-        "explanation":     "\"In this world there are seeds of love, just like there are seeds of hatred. Just like there is peace and calm, there is misery and turmoil in this nature. Seeing all these contradictions in this creation, our mind may wander. But we must strive to search for the truth that unifies them all.\" - Mankutimma\n\n[Translator's note: Scientists are still struggling to find a unified theory that explains gravitation, electro magnetic forces, subatomic forces - strong and weak.]",
+        "explanation":     "\"In this world there are seeds of love, just like there are seeds of hatred. Just like there is peace and calm, there is misery and turmoil in this nature. Seeing all these contradictions in this creation, our mind may wander. But we must strive to search for the truth that unifies them all.\" - Mankutimma
+\n
+\n[Translator's note: Scientists are still struggling to find a unified theory that explains gravitation, electro magnetic forces, subatomic forces - strong and weak.]",
         "themes":          ["Wisdom Life Nature Love Peace"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Wisdom Life Nature Love Peace",
     },
@@ -2620,7 +2661,9 @@ KAGGA_VERSES = [
         "verse":           "ಬೀಸಿದಲ್ಲದೆ ಬೂದಿಕವಿದ ಕಿಡಿಯುರಿದೀತೆ? ।\nಕೈಸೋಕದಿರೆ ಕೈಯ ಸಪ್ಪುಳಾದೀತೆ? ॥\nವಾಸನೆಯೆ ಮಾತೆಯಾಶೆಗೆ ಪಿತನು ಸಂದರ್ಭ ।\nದೋಷವೊಳಗೋ ಹೊರಗೊ? -  ಮಂಕುತಿಮ್ಮ  ॥ ೨೯೧ ॥",
         "transliteration": "bIsidallade bUdikavida kiDiyuridIte? ।\nkaisOkadire kaiya sappuLAdIte? ॥\nvAsaneye mAteyAshege pitanu sandarbha ।\ndOShavoLagO horago? - Mankutimma ॥  291 ॥",
         "meaning_kn":      "ಬೂದಿ ಮುಚ್ಚಿದ ಕೆಂಡಕ್ಕೆ ಗಾಳಿಬೀಸಿದರೆ ಮತ್ತೆ ಉರಿಯುತ್ತದೆ. ಹಾಗೆಯೇ ಎರಡೂ ಕೈಗಳು ಸೋಕಿದರೆ ಸಪ್ಪಳವಾಗುತ್ತದೆ. ಇದರಂತೆಯೇ ನಮ್ಮ ಪ್ರತೀ ಕ್ರಿಯೆಗೂ ನಾವು ಹೊತ್ತು ತಂದ ವಾಸನೆಯೇ ತಾಯಿ ಮತ್ತು ನಾವು ಇರುವ ಸಂದರ್ಭವೇ ತಂದೆ. ಇದರಲ್ಲಿ ದೋಷವು ಹೊತ್ತು ತಂದದ್ದರಲ್ಲೋ ಅಥವಾ ಇಲ್ಲಿ ಗಳಿಸಿಕೊಂಡದ್ದರಲ್ಲೋ ಎಂದು ಒಂದು ಗಹನವಾದ ಪ್ರಶ್ನೆಯನ್ನು ನಮ್ಮ ಮುಂದಿಡುತ್ತಾರೆ ಮಾನ್ಯ ಗುಂಡಪ್ಪನವರು.",
-        "explanation":     "\"If you don't blow over the soot covered coal, will it catch fire? If both hands don't meet, can one clap? Desire is the mother addictions (sin); But the father is circumstances. Hence, we can never tell if the root of sin is innate or circumstantial.\" - Mankutimma\n\n[Translator's note: a classical nature v/s nurture argument.]",
+        "explanation":     "\"If you don't blow over the soot covered coal, will it catch fire? If both hands don't meet, can one clap? Desire is the mother addictions (sin); But the father is circumstances. Hence, we can never tell if the root of sin is innate or circumstantial.\" - Mankutimma
+\n
+\n[Translator's note: a classical nature v/s nurture argument.]",
         "themes":          ["Morality Nature"],
         "tags":            "#Kagga #DVG #KannadaPoetry #ಕಗ್ಗ #Morality Nature",
     },
