@@ -60,4 +60,4 @@ from datetime import datetime
 #START_DATE = datetime(2026, 3, 25, 0, 0, 0)   # today — adjust hour to now if needed
 START_DATE = datetime.now()
 # The first verse to post. Previous verses (1-6) are skipped.
-START_VERSE = 7
+START_VERSE = 8
