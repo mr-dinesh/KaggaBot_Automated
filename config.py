@@ -62,5 +62,6 @@ LOG_FILE  = os.getenv("LOG_FILE",  "kagga_bot.log")
 
 from datetime import datetime, timezone
 
+
 START_DATE = datetime(2026, 3, 22, 6, 0, 0, tzinfo=timezone.utc)
-START_VERSE = 10
+START_VERSE = 1
