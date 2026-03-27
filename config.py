@@ -53,11 +53,14 @@ DRY_RUN   = os.getenv("DRY_RUN",   "false").lower() == "true"
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 LOG_FILE  = os.getenv("LOG_FILE",  "kagga_bot.log")
 
-from datetime import datetime
 
-# The date you are deploying this bot (today). Verse #7 will post at this moment,
-# verse #8 twelve hours later, and so on. All times are UTC.
-#START_DATE = datetime(2026, 3, 25, 0, 0, 0)   # today — adjust hour to now if needed
-START_DATE = datetime.now()
-# The first verse to post. Previous verses (1-6) are skipped.
-START_VERSE = 8
+##
+
+DRY_RUN   = os.getenv("DRY_RUN",   "false").lower() == "true"
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
+LOG_FILE  = os.getenv("LOG_FILE",  "kagga_bot.log")
+
+from datetime import datetime, timezone
+
+START_DATE = datetime(2026, 3, 22, 6, 0, 0, tzinfo=timezone.utc)
+START_VERSE = 10
