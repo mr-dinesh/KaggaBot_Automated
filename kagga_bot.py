@@ -88,32 +88,24 @@ for _v in KAGGA_VERSES:
 TOTAL_VERSES = len(KAGGA_VERSES)  # 945
 INTERVAL_HOURS = 12
 
-
 def compute_current_verse():
-    """
-    Derive today's verse from elapsed time since START_DATE.
-    No file I/O. No state. Safe for ephemeral environments.
-    """
     now = datetime.now(timezone.utc)
     start = config.START_DATE.replace(tzinfo=timezone.utc)
 
-    if now < start:
-        log.warning("Current time is before START_DATE. Posting START_VERSE.")
-        return _BY_NUMBER.get(config.START_VERSE)
+    days_elapsed = (now - start).days  # whole days only, no float precision issues
+    
+    # Which of the two daily posts is this? Check the hour.
+    post_number = 1 if now.hour >= 18 else 0
 
-    hours_elapsed = (now - start).total_seconds() / 3600
-    posts_since_start = int(hours_elapsed / INTERVAL_HOURS)
+    posts_since_start = (days_elapsed * 2) + post_number
 
-    # Offset from START_VERSE, wrapping around 945
-    verse_index = (config.START_VERSE - 1 + posts_since_start) % TOTAL_VERSES
-    verse_number = verse_index + 1  # 1-based
+    verse_number = (posts_since_start % TOTAL_VERSES) + 1
 
     log.info(
-        "Posts since start: %d | Computed verse: #%d",
-        posts_since_start,
-        verse_number,
+        "Day %d | Post %d | Computed verse: #%d",
+        days_elapsed, post_number, verse_number
     )
-    return _BY_NUMBER.get(verse_number)
+    return  _BY_NUMBER.get(verse_number)
 
 
 # ---------------------------------------------------------------------------
