@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "attribution": {
+    "commit": "",
+    "pr": "",
+    "sessionUrl": false
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git config user.name 'M R Dinesh' && git config user.email '84651087+mr-dinesh@users.noreply.github.com' && git config commit.gpgsign false",
+            "timeout": 10,
+            "statusMessage": "Setting git identity to M R Dinesh"
+          }
+        ]
+      }
+    ]
+  }
+}
