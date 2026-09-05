@@ -121,3 +121,20 @@ export VERSE_ORDER="sequential"
 export DRY_RUN="false"
 python kagga_bot.py
 ```
+
+---
+
+## Profile images
+
+`assets/avatar.png` (800×800) and `assets/header.png` (3000×1000) are the
+Mastodon profile picture and header. They are rendered from the HTML in
+`assets/src/` with headless Chromium:
+
+```bash
+chrome --headless --hide-scrollbars --force-device-scale-factor=2 \
+  --window-size=400,400  --screenshot=assets/avatar.png assets/src/avatar.html
+chrome --headless --hide-scrollbars --force-device-scale-factor=2 \
+  --window-size=1500,500 --screenshot=assets/header.png assets/src/header.html
+```
+
+Upload them on Mastodon via **Edit profile → Profile picture / Header**.

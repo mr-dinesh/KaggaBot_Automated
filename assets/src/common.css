@@ -1,0 +1,10 @@
+@font-face{font-family:"Baloo";src:url("fonts/baloo800.ttf");font-weight:800}
+@font-face{font-family:"NotoSerifKn";src:url("fonts/notoserifkn600.ttf");font-weight:600}
+@font-face{font-family:"NotoSansKn";src:url("fonts/notosanskn500.ttf");font-weight:500}
+@font-face{font-family:"Cormorant";src:url("fonts/cormorant600.ttf");font-weight:600}
+@font-face{font-family:"Cormorant";src:url("fonts/cormorantit500.ttf");font-weight:500;font-style:italic}
+:root{--ink:#140d24;--ink2:#2a1b45;--gold:#dba845;--gold2:#f3d27a;--cream:#f6ecd8;--cream2:#c9b99a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--ink);overflow:hidden}
+.bg{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 40%,var(--ink2) 0%,var(--ink) 70%)}
+.gold{background:linear-gradient(180deg,var(--gold2) 0%,var(--gold) 55%,#b98a2e 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
