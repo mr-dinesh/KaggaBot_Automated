@@ -5,8 +5,6 @@ on:
     - cron: '0 6 * * *'   # 06:00 UTC daily  → post 1
     - cron: '0 18 * * *'  # 18:00 UTC daily  → post 2
   workflow_dispatch:       # manual trigger from GitHub UI
-  push:                    # TEMPORARY: one-off run to verify the re-enabled bot
-    branches: [main]
 
 jobs:
   post:
