@@ -16,9 +16,12 @@ When a post exceeds 500 chars, it splits into a thread:
   Post 1 (below) -> English explanation
   Post 2 (top)   -> Kannada verse + transliteration + tags
 
-Verse selection is stateless: computed from START_DATE and START_VERSE
-in config.py. No state.json needed. Safe to run on ephemeral platforms
-like GitHub Actions.
+Verse selection is sequential and stateful: the number of the last
+verse posted is stored in STATE_FILE (bot_state.json). On GitHub Actions
+the workflow commits that file back to the repo after every run, so the
+bot resumes exactly where it left off -- and the commit counts as repo
+activity, which stops GitHub auto-disabling the schedule after 60 days.
+If STATE_FILE is missing, posting starts at START_VERSE from config.py.
 
 Usage:
   python kagga_bot.py              # Start the scheduler (daemon mode)
@@ -29,6 +32,7 @@ Usage:
 """
 
 import argparse
+import json
 import logging
 import os
 import random
@@ -77,35 +81,38 @@ for _v in KAGGA_VERSES:
                 _BY_THEME.setdefault(_w, []).append(_v)
 
 # ---------------------------------------------------------------------------
-# Stateless verse selection
-#
-# START_DATE and START_VERSE are set in config.py.
-# Every 12 hours from START_DATE, the next verse is posted sequentially.
-# This computation is deterministic: any run at any time produces the
-# correct verse without needing a state file.
+# Sequential verse selection with a persisted state file
 # ---------------------------------------------------------------------------
 
 TOTAL_VERSES = len(KAGGA_VERSES)  # 945
-INTERVAL_HOURS = 12
 
-def compute_current_verse():
-    now = datetime.now(timezone.utc)
-    start = config.START_DATE.replace(tzinfo=timezone.utc)
 
-    days_elapsed = (now - start).days  # whole days only, no float precision issues
-    
-    # Which of the two daily posts is this? Check the hour.
-    post_number = 1 if now.hour >= 18 else 0
+def load_state():
+    """Return the state dict, or {} if the file is missing or unreadable."""
+    try:
+        with open(config.STATE_FILE, encoding="utf-8") as fh:
+            return json.load(fh)
+    except (OSError, ValueError):
+        return {}
 
-    posts_since_start = (days_elapsed * 2) + post_number
 
-    verse_number = (posts_since_start % TOTAL_VERSES) + 1
+def save_state(state):
+    with open(config.STATE_FILE, "w", encoding="utf-8") as fh:
+        json.dump(state, fh, indent=2)
+        fh.write("\n")
 
-    log.info(
-        "Day %d | Post %d | Computed verse: #%d",
-        days_elapsed, post_number, verse_number
-    )
-    return  _BY_NUMBER.get(verse_number)
+
+def next_sequential_verse():
+    """Verse after the last one recorded in STATE_FILE (wraps after #945)."""
+    state = load_state()
+    last = state.get("last_verse")
+    if isinstance(last, int) and 1 <= last <= TOTAL_VERSES:
+        number = last % TOTAL_VERSES + 1
+        log.info("Last posted: #%d | Next verse: #%d", last, number)
+    else:
+        number = config.START_VERSE
+        log.info("No state file; starting at START_VERSE #%d", number)
+    return _BY_NUMBER.get(number)
 
 
 # ---------------------------------------------------------------------------
@@ -124,8 +131,11 @@ def pick_verse(specific=None, theme=None):
         pool = _BY_THEME.get(theme.lower(), KAGGA_VERSES)
         return random.choice(pool)
 
-    # Default: stateless date-math selection
-    return compute_current_verse()
+    if config.VERSE_ORDER == "random":
+        return random.choice(KAGGA_VERSES)
+
+    # Default: sequential, resuming from STATE_FILE
+    return next_sequential_verse()
 
 
 # ---------------------------------------------------------------------------
@@ -218,6 +228,10 @@ def post_verse(dry_run=False, specific=None, theme=None):
         sys.exit(1)
 
     num = verse.get("number", "?")
+    # Only the default sequential run advances the saved position.
+    advance_state = (
+        specific is None and theme is None and config.VERSE_ORDER == "sequential"
+    )
 
     # Try 1: single post with full tags
     text = build_single(verse, short=False)
@@ -260,8 +274,14 @@ def post_verse(dry_run=False, specific=None, theme=None):
 
     except MastodonError as exc:
         log.error("Mastodon error: %s", exc)
+        sys.exit(1)
     except Exception as exc:
         log.error("Unexpected error: %s", exc)
+        sys.exit(1)
+
+    if advance_state:
+        save_state({"last_verse": num, "posted_at": datetime.now(timezone.utc).isoformat(timespec="seconds")})
+        log.info("Recorded last_verse=%s in %s", num, config.STATE_FILE)
 
 
 # ---------------------------------------------------------------------------
@@ -290,7 +310,7 @@ def run_scheduler():
     log.info("Kagga Bot starting — %d verses loaded", len(KAGGA_VERSES))
     log.info("Instance  : %s", config.MASTODON_INSTANCE_URL)
     log.info("Schedule  : every %d %s", config.POSTING_INTERVAL_VALUE, config.POSTING_INTERVAL_UNIT)
-    log.info("Start date: %s | Start verse: #%d", config.START_DATE.date(), config.START_VERSE)
+    log.info("State file: %s | Fallback start verse: #%d", config.STATE_FILE, config.START_VERSE)
 
     post_verse()
 

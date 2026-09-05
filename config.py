@@ -54,14 +54,9 @@ LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 LOG_FILE  = os.getenv("LOG_FILE",  "kagga_bot.log")
 
 
-##
-
-DRY_RUN   = os.getenv("DRY_RUN",   "false").lower() == "true"
-LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
-LOG_FILE  = os.getenv("LOG_FILE",  "kagga_bot.log")
-
-from datetime import datetime, timezone
-
-
-START_DATE = datetime(2026, 3, 27, 0, 0, 0, tzinfo=timezone.utc)  # today
-START_VERSE = 10  # unused now, but keep it for reference
+# ---------------------------------------------------------------------------
+# Sequential start point
+# Used only when STATE_FILE does not exist yet. Once a verse has been posted,
+# STATE_FILE records it and the bot always continues from there.
+# ---------------------------------------------------------------------------
+START_VERSE = int(os.getenv("START_VERSE", "166"))
