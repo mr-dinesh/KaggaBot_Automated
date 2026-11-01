@@ -176,19 +176,65 @@ def build_single(verse, short=False):
     return "\n".join(parts)
 
 
+EXPL_PREFIX = "💡 "
+
+
+def _split_text(text, limit):
+    """
+    Split text into chunks of at most `limit` characters, breaking at sentence
+    ends where possible, then at spaces, and only as a last resort mid-word.
+    Mastodon counts characters as Unicode code points, which is what len() does.
+    """
+    chunks = []
+    rest = text.strip()
+    while len(rest) > limit:
+        window = rest[:limit + 1]
+        cut = max(window.rfind(p) for p in (". ", "? ", "! ", '." ', '?" ', '!" ', ".\n"))
+        if cut > limit // 3:
+            cut += 1                      # keep the punctuation with its sentence
+            if window[cut:cut + 1] == '"':
+                cut += 1                  # and a closing quote
+        else:
+            cut = window.rfind(" ")
+            if cut <= limit // 3:
+                cut = limit               # one enormous word: hard cut
+        chunks.append(rest[:cut].rstrip())
+        rest = rest[cut:].lstrip()
+    if rest:
+        chunks.append(rest)
+    return chunks
+
+
+def explanation_posts(expl):
+    """
+    The explanation as one or more posts, each within LIMIT.
+    A single post keeps the original "💡 text" form; longer ones are numbered.
+    """
+    expl = (expl or "").strip()
+    if not expl:
+        return []
+    if len(EXPL_PREFIX) + len(expl) <= LIMIT:
+        return [EXPL_PREFIX + expl]
+    # Reserve room for the "💡 (n/N) " label; N is never more than 9 here.
+    label_len = len(EXPL_PREFIX) + len("(9/9) ")
+    parts = _split_text(expl, LIMIT - label_len)
+    n = len(parts)
+    return ["%s(%d/%d) %s" % (EXPL_PREFIX, i + 1, n, p) for i, p in enumerate(parts)]
+
+
 def build_thread(verse):
     """
-    Two-post thread for long posts.
-    Post 1 (older, appears below) -> explanation
-    Post 2 (newer, appears on top) -> verse + transliteration + tags
+    Thread for long posts, posted oldest first:
+      explanation post(s)  -> appear below
+      verse post           -> newest, appears on top; replies to the last explanation
+    Returns (list_of_explanation_posts, verse_post).
     """
-    expl = verse.get("explanation", "").strip()
     num = str(verse.get("number", ""))
     tags = build_tags(verse, short=True)
     trans = verse.get("transliteration", "").strip()
     kv = verse["verse"].strip()
 
-    p1 = ("💡 " + expl) if expl else ""
+    expl_posts = explanation_posts(verse.get("explanation", ""))
 
     p2_parts = []
     if num:
@@ -199,7 +245,7 @@ def build_thread(verse):
     p2_parts += ["", tags]
     p2 = "\n".join(p2_parts)
 
-    return p1, p2
+    return expl_posts, p2
 
 
 # ---------------------------------------------------------------------------
@@ -243,11 +289,16 @@ def post_verse(dry_run=False, specific=None, theme=None):
     # Try 3: thread
     thread = len(text) > LIMIT
     if thread:
-        p1, p2 = build_thread(verse)
+        expl_posts, p2 = build_thread(verse)
+        posts = expl_posts + ([p2] if p2 else [])
         log.info("-" * 50)
-        log.info("Verse #%s THREAD", num)
-        log.info("Post 1 (%d chars):\n%s", len(p1), p1)
-        log.info("Post 2 (%d chars):\n%s", len(p2), p2)
+        log.info("Verse #%s THREAD (%d posts)", num, len(posts))
+        for i, p in enumerate(posts, 1):
+            log.info("Post %d (%d chars):\n%s", i, len(p), p)
+        too_long = [i for i, p in enumerate(posts, 1) if len(p) > LIMIT]
+        if too_long:
+            log.error("Posts %s exceed %d chars; refusing to post.", too_long, LIMIT)
+            sys.exit(1)
     else:
         log.info("-" * 50)
         log.info("Verse #%s (%d chars):\n%s", num, len(text), text)
@@ -259,15 +310,17 @@ def post_verse(dry_run=False, specific=None, theme=None):
     try:
         client = get_client()
         if thread:
-            s1 = client.status_post(status=p1, visibility=config.POST_VISIBILITY)
-            log.info("Posted 1: %s", s1["url"])
-            if p2:
-                s2 = client.status_post(
-                    status=p2,
-                    in_reply_to_id=s1["id"],
+            # Each post replies to the one before it, so the verse post ends up
+            # newest (on top of the profile) with the explanation chained below.
+            reply_to = None
+            for i, p in enumerate(posts, 1):
+                s = client.status_post(
+                    status=p,
+                    in_reply_to_id=reply_to,
                     visibility=config.POST_VISIBILITY,
                 )
-                log.info("Posted 2: %s", s2["url"])
+                reply_to = s["id"]
+                log.info("Posted %d/%d: %s", i, len(posts), s["url"])
         else:
             s = client.status_post(status=text, visibility=config.POST_VISIBILITY)
             log.info("Posted: %s", s["url"])
