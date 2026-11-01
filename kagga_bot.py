@@ -224,10 +224,11 @@ def explanation_posts(expl):
 
 def build_thread(verse):
     """
-    Thread for long posts, posted oldest first:
-      explanation post(s)  -> appear below
-      verse post           -> newest, appears on top; replies to the last explanation
-    Returns (list_of_explanation_posts, verse_post).
+    Thread for long posts:
+      explanation post(s)  -> appear below the verse on the profile
+      verse post           -> posted last, so it is newest and appears on top
+    Returns (explanation_posts_in_reading_order, verse_post); post_verse()
+    sends the explanation parts in reverse so the profile reads in order.
     """
     num = str(verse.get("number", ""))
     tags = build_tags(verse, short=True)
@@ -290,7 +291,9 @@ def post_verse(dry_run=False, specific=None, theme=None):
     thread = len(text) > LIMIT
     if thread:
         expl_posts, p2 = build_thread(verse)
-        posts = expl_posts + ([p2] if p2 else [])
+        # The profile lists newest first. Posting the explanation parts last to
+        # first makes the profile read: verse, (1/N), (2/N) ... top to bottom.
+        posts = list(reversed(expl_posts)) + ([p2] if p2 else [])
         log.info("-" * 50)
         log.info("Verse #%s THREAD (%d posts)", num, len(posts))
         for i, p in enumerate(posts, 1):
